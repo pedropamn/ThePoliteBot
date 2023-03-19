@@ -3,8 +3,10 @@
 
 
 <p align="center">
-  <img width="100" src="https://github.com/pedropamn/The-Polite-Bot/blob/main/thepolitebot.jpg?raw=true" />
+  <img width="100" src="https://github.com/pedropamn/The-Polite-Bot/blob/main/thepolitebot.jpg?raw=true" /><br><br>
+  <a target="_blank" href="https://t.me/thepolite_bot"><img src="https://img.shields.io/badge/-See on Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
+
 
 &rarr; __Description__ 
 * A bot to "edit" unpolite messages in Telegram groups, by deleting and re-sending, creating a group ranking
